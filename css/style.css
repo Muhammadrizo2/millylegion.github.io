@@ -1,0 +1,26 @@
+html, body { 
+  background: url(../header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.div {
+	width: fit-content;
+	background-color: yellow;
+	padding: 50px;
+	font-size: 24px;
+}
+
+.container {
+	/*border: 10px solid red;*/
+	height: 100vh;
+}
+
+.header_text {
+	color: #fff;
+	font-size: 50px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
